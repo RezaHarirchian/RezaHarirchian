@@ -1,4 +1,5 @@
 # Hello 👋, I'm Reza Harirchian
+### Network Systems Specialist & Digital Strategy Architect
 
 Marketing Manager at Amazon, shaping data-driven marketing strategies since 2017.
 Dual Master’s in IT and MBA with certifications from Google, IBM, and HubSpot.
