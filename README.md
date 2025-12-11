@@ -4,7 +4,10 @@
 Network and systems specialist focused on secure, highly available infrastructures, routing & switching, VPN, Linux, and containerized environments. Also experienced in leading data-driven marketing and product initiatives with a strong background in analytics and digital strategy.
 
 ## Contact Me
-<p><a href="https://www.linkedin.com/in/rezaharirchian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/rezaharirchian" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://rezaharirchian.ca" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/rezaharirchian" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<p><a href="https://www.linkedin.com/in/rezaharirchian" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/rezaharirchian" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://rezaharirchian.ca" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/rezaharirchian" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://donate.stripe.com/eVqaEY5w24EX8YofLf3F600" target="_blank">
+  <img src="https://img.shields.io/badge/Donate-Stripe-5469d4?style=flat-square&logo=stripe&logoColor=ffffff" alt="Donate with Stripe">
+</a>
+ </p>
 
 ## Skills
 
