@@ -114,6 +114,12 @@ Network and systems specialist focused on secure, highly available infrastructur
   </a>
 </p>
 
+## Current Focus
+
+- Designing secure remote-access and site-to-site VPN architectures for SMEs.  
+- Building full‑stack web and mobile apps (React / React Native / Next.js) on top of containerized backends.  
+- Automating workflows and monitoring using Python, Zapier, and modern observability stacks.
+
 ## GitHub Stats
 
 ## GitHub Activity Graph
