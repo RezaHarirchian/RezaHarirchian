@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Reza%20Harirchian&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Network%20%26%20Systems%20Specialist%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Founder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Reza Harirchian
 
-<!-- Typing Animation -->
+### Network & Systems Specialist · Full-Stack Developer · Founder
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Building+AI-powered+infrastructure+tools;Researching+real-world+network+behavior;Founder+of+ServerSpy.ca+%26+SpyCore+AI;Vancouver%2C+BC+%F0%9F%87%A8%F0%9F%87%A6" alt="Typing SVG" />
 </a>
@@ -201,6 +201,6 @@ If you're building in **AI**, **infrastructure**, **network security**, or **dev
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=fadeIn" width="100%"/>
+<sub>⚡ Always shipping · Always learning</sub>
 
 </div>
