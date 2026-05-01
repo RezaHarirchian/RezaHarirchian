@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rezaharirchian)
 [![Medium](https://img.shields.io/badge/Medium-Read-000000?style=flat-square&logo=medium)](https://medium.com/@rezaharirchian)
 [![ServerSpy](https://img.shields.io/badge/ServerSpy-Live-00c853?style=flat-square&logo=google-chrome)](https://serverspy.ca)
+[![SpyCore AI](https://img.shields.io/badge/SpyCore_AI-Live-A78BFA?style=flat-square&logo=google-chrome)](https://spycore.ca)
 
 </div>
 
@@ -60,6 +61,8 @@ Built entirely solo: architecture → development → production.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
+[**→ serverspy.ca**](https://serverspy.ca) · [GitHub](https://github.com/ServerSpyAI)
+
 </td>
 <td width="50%" valign="top">
 
@@ -76,6 +79,8 @@ Web, mobile, and desktop apps · REST API with streaming · Enterprise SSO · Cu
 ![Multi-Model](https://img.shields.io/badge/Multi--Model-6EE7F7?style=flat-square&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square)
 ![SSO](https://img.shields.io/badge/Enterprise_SSO-302b63?style=flat-square)
+
+[**→ spycore.ca**](https://spycore.ca) · [GitHub](https://github.com/SpyCoreAI)
 
 </td>
 </tr>
@@ -198,6 +203,7 @@ If you're building in **AI**, **infrastructure**, **network security**, or **dev
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rezaharirchian)
 [![Website](https://img.shields.io/badge/rezaharirchian.ca-1a1a2e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rezaharirchian.ca)
 [![ServerSpy](https://img.shields.io/badge/ServerSpy.ca-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://serverspy.ca)
+[![SpyCore AI](https://img.shields.io/badge/SpyCore.ca-A78BFA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://spycore.ca)
 
 <br/>
 
