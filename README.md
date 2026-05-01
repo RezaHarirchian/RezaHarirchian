@@ -139,14 +139,32 @@ const reza = {
 
 <div align="center">
 
-## 📊 GitHub Stats
+## 📊 GitHub Showcase
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=RezaHarirchian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=ffffff&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RezaHarirchian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&text_color=ffffff&langs_count=8" />
+</div>
 
-<br/>
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RezaHarirchian&theme=tokyonight&hide_border=true&background=0d1117&stroke=6EE7F7&ring=6EE7F7&fire=ff6b6b&currStreakLabel=6EE7F7" />
+<a href="https://github.com/RezaHarirchian">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=RezaHarirchian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6EE7F7&icon_color=6EE7F7&text_color=ffffff&count_private=true&include_all_commits=true&card_width=445" />
+</a>
+<a href="https://github.com/RezaHarirchian">
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=RezaHarirchian&theme=tokyonight&hide_border=true&background=0d1117&stroke=6EE7F7&ring=6EE7F7&fire=ff6b6b&currStreakLabel=6EE7F7&sideLabels=6EE7F7&dates=a1a1aa&sideNums=ffffff&currStreakNum=6EE7F7" />
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RezaHarirchian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
+
+</div>
+
+<div align="center">
+
+### ⏱ Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RezaHarirchian&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6EE7F7&line=A78BFA&point=ffffff&area=true&area_color=302b63&custom_title=Commits%20over%20time" />
 
 </div>
 
@@ -154,39 +172,23 @@ const reza = {
 
 <div align="center">
 
-## 🛠 Full Tech Stack
+## 🛠 Skills & Toolchain
 
-**Languages & Frameworks**
+</div>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<div align="center">
 
-**Databases & Caching**
+#### Languages & Frameworks
+<a href="#"><img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,python,fastapi&perline=6" /></a>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+#### Databases & Caching
+<a href="#"><img src="https://skillicons.dev/icons?i=postgres,redis,mysql,prisma,mongodb&perline=5" /></a>
 
-**Infrastructure & DevOps**
+#### Infrastructure & DevOps
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,aws,gcp,azure&perline=7" /></a>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**Networking**
-
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
-![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+#### Tools & Platforms
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,vscode,figma,bash&perline=7" /></a>
 
 </div>
 
