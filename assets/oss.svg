@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace">
+<defs>
+<filter id="sh3" x="-20%" y="-20%" width="140%" height="140%">
+<feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#1f0f08" flood-opacity="0.45"/>
+</filter>
+</defs>
+<rect width="1200" height="560" fill="#e85c2a"/>
+<rect x="40" y="30" width="1120" height="500" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35" filter="url(#sh3)"/>
+<rect x="40" y="30" width="1120" height="40" fill="#eadfc6"/>
+<line x1="40" y1="70" x2="1160" y2="70" stroke="#1f0f08" stroke-opacity="0.25"/>
+<rect x="60" y="44" width="12" height="12" fill="#8c3a1a"/>
+<rect x="78" y="44" width="12" height="12" fill="#8c3a1a"/>
+<rect x="96" y="44" width="12" height="12" fill="#8c3a1a"/>
+<text x="126" y="55" font-size="13" fill="#4a2614">open-source/</text>
+<text x="80" y="122" font-size="12" letter-spacing="4" fill="#7c5340">OPEN SOURCE</text>
+<g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<text x="80" y="200" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="30" font-weight="500" fill="#1f0f08">SpyCode</text>
+<text x="80" y="232" font-size="16" fill="#4a2614">Terminal AI coding agent with an</text>
+<text x="80" y="256" font-size="16" fill="#4a2614">approval-gated loop, checkpoints, MCP.</text>
+<text x="620" y="200" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="30" font-weight="500" fill="#1f0f08">FreedoMesh</text>
+<text x="620" y="232" font-size="16" fill="#4a2614">Open-source VPN and proxy</text>
+<text x="620" y="256" font-size="16" fill="#4a2614">subscription management panel.</text>
+<text x="80" y="380" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="30" font-weight="500" fill="#1f0f08">postwisp</text>
+<text x="80" y="412" font-size="16" fill="#4a2614">Self-hosted Telegram bot for</text>
+<text x="80" y="436" font-size="16" fill="#4a2614">two-way email management.</text>
+<text x="620" y="380" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="30" font-weight="500" fill="#1f0f08">starlink-reverse-egress</text>
+<text x="620" y="412" font-size="16" fill="#4a2614">Reverse egress over Starlink</text>
+<text x="620" y="436" font-size="16" fill="#4a2614">for isolated environments.</text>
+</g>
+</svg>

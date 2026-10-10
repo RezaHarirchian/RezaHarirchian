@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace">
+<defs>
+<filter id="sh" x="-20%" y="-20%" width="140%" height="140%">
+<feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#1f0f08" flood-opacity="0.45"/>
+</filter>
+</defs>
+<rect width="1200" height="600" fill="#e85c2a"/>
+<rect width="1200" height="46" fill="#f4ebd7"/>
+<line x1="0" y1="46" x2="1200" y2="46" stroke="#1f0f08" stroke-opacity="0.25"/>
+<text x="28" y="30" font-size="15" font-weight="700" fill="#1f0f08">RezaOS</text>
+<text x="130" y="30" font-size="13" fill="#4a2614">File&#160;&#160;&#160;View&#160;&#160;&#160;Windows</text>
+<text x="1172" y="30" font-size="13" fill="#4a2614" text-anchor="end">Sat 21:29</text>
+<rect x="70" y="96" width="1060" height="460" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35" filter="url(#sh)"/>
+<rect x="70" y="96" width="1060" height="44" fill="#eadfc6"/>
+<line x1="70" y1="140" x2="1130" y2="140" stroke="#1f0f08" stroke-opacity="0.25"/>
+<rect x="94" y="114" width="12" height="12" fill="#8c3a1a"/>
+<rect x="112" y="114" width="12" height="12" fill="#8c3a1a"/>
+<rect x="130" y="114" width="12" height="12" fill="#8c3a1a"/>
+<text x="162" y="125" font-size="14" fill="#4a2614">about.txt</text>
+<text x="110" y="192" font-size="13" letter-spacing="4" fill="#7c5340">PROFILE</text>
+<text x="110" y="254" font-family="Fraunces, Georgia, 'Times New Roman', serif" font-size="62" font-weight="500" fill="#1f0f08">Reza Harirchian</text>
+<text x="110" y="304" font-size="19" fill="#4a2614" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">Founder &amp; CEO of SpyCore AI. Infrastructure engineer</text>
+<text x="110" y="334" font-size="19" fill="#4a2614" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">working on network and systems with a focus on security,</text>
+<text x="110" y="364" font-size="19" fill="#4a2614" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">availability, and real-world reliability.</text>
+<text x="110" y="412" font-size="19" fill="#4a2614" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">A recurring theme in my work: how networks behave under</text>
+<text x="110" y="442" font-size="19" fill="#4a2614" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">non-ideal conditions. I build AI systems and tools I wish existed.</text>
+<g font-size="13" fill="#1f0f08">
+<rect x="110" y="472" width="102" height="32" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35"/><text x="161" y="493" text-anchor="middle">TypeScript</text>
+<rect x="222" y="472" width="40" height="32" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35"/><text x="242" y="493" text-anchor="middle">Go</text>
+<rect x="272" y="472" width="71" height="32" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35"/><text x="307" y="493" text-anchor="middle">Python</text>
+<rect x="353" y="472" width="79" height="32" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35"/><text x="392" y="493" text-anchor="middle">Next.js</text>
+<rect x="442" y="472" width="102" height="32" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35"/><text x="493" y="493" text-anchor="middle">PostgreSQL</text>
+<rect x="554" y="472" width="71" height="32" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35"/><text x="589" y="493" text-anchor="middle">Docker</text>
+<rect x="635" y="472" width="102" height="32" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35"/><text x="686" y="493" text-anchor="middle">Kubernetes</text>
+<rect x="747" y="472" width="63" height="32" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35"/><text x="778" y="493" text-anchor="middle">Linux</text>
+<rect x="820" y="472" width="94" height="32" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35"/><text x="867" y="493" text-anchor="middle">WireGuard</text>
+<rect x="924" y="472" width="87" height="32" fill="#f4ebd7" stroke="#1f0f08" stroke-opacity="0.35"/><text x="967" y="493" text-anchor="middle">MikroTik</text>
+</g>
+</svg>
